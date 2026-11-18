@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "decisions": [
+  {
+   "id": "ewhc-admin-2026-2990",
+   "title": "BVD v Secretary of State for Defence",
+   "citation": "[2026] EWHC 2990 (Admin)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/2990",
+   "court": "Administrative Court",
+   "date": "2026-11-18",
+   "topics": [
+    "Judicial review"
+   ],
+   "snippet": "Mr Justice Johnson: 1. The claimant, BVD, seeks judicial review of the Secretary of State’s decision that he is not eligible for assistance under the Afghan Relocations and Assistance Policy (“ARAP”). That policy permits the provision of assistance to (among others) those who worked in Afghanistan alongside a UK Government department and who fulfil specified conditions. 2. BVD says: (1) The process that resulted in the decision was unfair because the Secretary of State previously accepted that BVD worked alongside a UK Government department but then reached the opposite conclusion without giving BVD a fair opportunity to make representations. (2) The Secretary of State misinterpreted and mis"
+  },
+  {
+   "id": "ukftt-grc-2026-1566",
+   "title": "Department for Work and Pensions v Information Commissioner & Anor",
+   "citation": "[2026] UKFTT 1566 (GRC)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1566",
+   "court": "FTT (GRC)",
+   "date": "2026-11-18",
+   "topics": [
+    "FOI / EIR"
+   ],
+   "snippet": "1. This is an appeal against a Decision Notice of the Information Commissioner (“the Commissioner”) dated 08 December 2025, reference IC-392654-R3Z1 (“the Decision Notice”). The Decision Notice concluded that the exemption in section 31(1) (a) of the Freedom of Information Act 2000 (FOIA) was engaged but that the public interest favoured disclosure of some of the requested information. The remaining information, for which the Commissioner considered the public interest favoured maintaining the exemption, was set out in a confidential annex to the Decision Notice (“the Confidential Annex”). The Decision Notice required the Appellant to disclose the requested information to Ms Emma Kirby (“the"
+  },
   {
    "id": "ewhc-admin-2026-2976",
    "title": "Ali, R (on the application of) v General Medical Council",
@@ -1557,6 +1581,18 @@
    "snippet": "3. NICE is responsible for, amongst other things, assessing the cost and clinical effectiveness of medicines for the NHS. On 12 January 2025 (71) the Request asked NICE: - “Can you please tell me the percentage difference between the cost per monthly prescription between Ritlecitinib (TA958) that was approved on 27 March 2024 and Baricitinib (TA926) that was not approved on 25 October 2023.” \"I do not believe this FOI can be considered commercially confidential because I am not asking for the actual costs of each drug, therefore it should not be rejected on those grounds. It has public interest because many people would like to see Baricitinib approved as an alternative option to Ritlecitini"
   },
   {
+   "id": "ewhc-admin-2026-2985",
+   "title": "Wyllie, R (on the application of) v The Parole Board for England and Wales",
+   "citation": "[2026] EWHC 2985 (Admin)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/2985",
+   "court": "Administrative Court",
+   "date": "2026-10-06",
+   "topics": [
+    "Judicial review"
+   ],
+   "snippet": "4. The Claimant is serving a determinate sentence of 14 years' imprisonment following conviction for an offence of rape for which he was sentenced on 23 May 2014. He was released on licence on 27 November 2019. He was recalled less than a month later on 18 December 2019 due to his arrest for malicious communications, and he has remained in prison since. 5. His case has been reviewed by the Parole Board on a number of occasions. On 12 August 2024 there was an oral hearing. The Parole Board was provided with a report dated 8 March 2024 by senior forensic psychologist Dr Jennifer Bamford. She concluded that the Claimant's risk was not yet manageable in the community. She went on to detail furth"
+  },
+  {
    "id": "ukut-aac-2026-376",
    "title": "DENBIGHSHIRE COUNTY COUNCIL v MR & MRS AB",
    "citation": "[2026] UKUT 376 (AAC)",
@@ -1781,6 +1817,19 @@
     "Licensing & regulation"
    ],
    "snippet": "Preliminary matters 1. In this decision , I use the following terms to denote the meanings shown: Applicant: Desmond Fitzpatrick. Application: The Applicant’s application (via Form GRC3 dated 7 July 2026) for an order by the Tribunal under section 166(2) in respect of the Complaint. Commissioner: The Information Commissioner (the Respondent). Complaint: The Applicant’s complaint to the Commissioner, dated 17 November 2025, concerning a subject access request made to the trustees of the Toyota (GB) Retirement Benefits Plan (1979). DPA: The Data Protection Act 2018 . Tribunal Rules: The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009. UK GDPR: The General Data "
+  },
+  {
+   "id": "ewhc-admin-2026-2988",
+   "title": "Maruf Begum, R (on the application of) v London Borough of Tower Hamlets",
+   "citation": "[2026] EWHC 2988 (Admin)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/2988",
+   "court": "Administrative Court",
+   "date": "2026-09-29",
+   "topics": [
+    "Housing",
+    "Judicial review"
+   ],
+   "snippet": "JUDGE DE BERTODANO: 1. This case concerns the defendant's decision to offer accommodation to the claimant and her household under Part 7 of the Housing Act 1996 . The Claim 2. The claimant applied to the defendant for homelessness assistance on 25 March 2024. Her family consists of herself, her parents and her four sons, including, most significantly for these proceedings, her son, who I will refer to by the initials \"NA\", who is 11 years old and has cerebral palsy and has assessed needs for accessible accommodation. 3. On 1 December 2025, the defendant accepted that it owed the claimant the main housing duty under section 193.2 of the Housing Act. The defendant arranged temporary accommodat"
   },
   {
    "id": "ukut-aac-2026-372",
@@ -3007,44 +3056,6 @@
     "Procurement"
    ],
    "snippet": "6. The DWP is the UK’s biggest public service department. It administers the state pension and a range of working age, disability, and ill health benefits to approximately 20 million individuals. 7. The stated purpose of the Procurement is to procure a high quality, modern and single source video conferencing channel solution to enable DWP to interact with its customers, which is capable of being rolled out across DWP’s various lines of business. The video conference solution will replace the video conference solutions deployed in the Health Assessment Directorate and Universal Credit, which are the only services currently offering a video conferencing channel and whose contracts will soon e"
-  },
-  {
-   "id": "ukftt-grc-2026-1000",
-   "title": "Andrzej Witold Kuczys v The Information Commissioner",
-   "citation": "[2026] UKFTT 1000 (GRC)",
-   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1000",
-   "court": "FTT (GRC)",
-   "date": "2026-08-19",
-   "topics": [
-    "FOI / EIR",
-    "Data protection"
-   ],
-   "snippet": "1. These proceedings concern an application (the “Application”) under section 166(2) of the Data Protection Act 2018 (“DPA 2018”) for an order to progress the Applicant’s complaints against a data controller (the “Controller”) regarding the handling of his personal data and how the Controller responded to his Data Subject Access Request (DSAR). The complaint was submitted to the Information Commissioner (“IC”) on 21 February 2025 and was dealt with under reference IC-366691-L0J4. 2. In summary the complaint was about the following complaints he had made to the Controller: a. Correspondence marked confidential raising concerns about the use of CCTV recording by the Controller being opened by "
-  },
-  {
-   "id": "ukftt-grc-2026-1197",
-   "title": "SARWAT JAHAN v THE INFORMATION COMMISSIONER",
-   "citation": "[2026] UKFTT 1197 (GRC)",
-   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1197",
-   "court": "FTT (GRC)",
-   "date": "2026-08-19",
-   "topics": [
-    "FOI / EIR",
-    "Highways & environment"
-   ],
-   "snippet": "1. This is an appeal against Decision Notice Reference: IC-278983-Z8G4 dated 1 July 2024, in which the First Respondent (“the Commissioner”) decided that the Second Respondent (“the Borough”) was entitled to rely on s40(2) of the Freedom of Information Act 2000 (“FOIA”) to withhold information requested by the Appellant relating to a Penalty Charge Notice (“PCN”) issued by the Borough in relation to a parking contravention (“the disputed information”). 2. The parties were agreeable to the determination of the appeal on the papers, that is to say, without an oral hearing. 3. We had before us an OPEN bundle. At our initial deliberations we could not identify any CLOSED material, including the "
-  },
-  {
-   "id": "ukftt-grc-2026-1169",
-   "title": "The Secretary of State for Defence v The Information Commissioner",
-   "citation": "[2026] UKFTT 1169 (GRC)",
-   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1169",
-   "court": "FTT (GRC)",
-   "date": "2026-08-19",
-   "topics": [
-    "FOI / EIR"
-   ],
-   "snippet": "1. This is an appeal by the Ministry of Defence (“the MOD”) against the Information Commissioner’s decision notice IC ‑ 353552 ‑ M1L8 and IC ‑ 358729 ‑ N5Y3 dated 29 July 2025 (“the DN”). The DN concerned two FOIA requests made by Mr Mark Ellis to the MOD for Army Equipment Support Publications (“AESPs” or \"manuals\") i.e. maintenance and repair manuals for Bedford trucks and mounted snowploughs. 2. In the DN, the Information Commissioner (\"the Commissioner\") concluded that, on the balance of probabilities, the MOD did not hold one of the requested manuals. However, all the others were held and not exempt from disclosure under either section 41(1) (information provided in confidence) or secti"
   }
  ]
 }
