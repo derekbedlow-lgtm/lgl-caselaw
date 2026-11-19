@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "decisions": [
+  {
+   "id": "ewhc-tcc-2026-2998",
+   "title": "Bouygues (U.K.) Limited v Secretary of State for Education",
+   "citation": "[2026] EWHC 2998 (TCC)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2026/2998",
+   "court": "TCC",
+   "date": "2026-11-19",
+   "topics": [
+    "Procurement",
+    "Education & SEND"
+   ],
+   "snippet": "Mr Justice Coppel: The issues 1. In these proceedings, the Claimant claims that the Defendant conducted an unlawful tender evaluation during the procurement of Lot 2 of a framework agreement for (primarily) the construction of new and refurbished schools and other educational buildings, entitled Construction Framework 25 (“the Procurement”, “the Framework”, “CF25”, “the Claim”). The Procurement was conducted pursuant to the Procurement Act 2023 (“ the Act ”). 2. The claim form in the proceedings bears the issue date 5 January 2026, which was a Monday. The Defendant has pleaded a limitation defence, to the effect that the time limit for commencing proceedings expired on 3 January, a Saturday,"
+  },
+  {
+   "id": "ukftt-grc-2026-1571",
+   "title": "DPP Law Limited v The Information Commission",
+   "citation": "[2026] UKFTT 1571 (GRC)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1571",
+   "court": "FTT (GRC)",
+   "date": "2026-11-19",
+   "topics": [
+    "FOI / EIR",
+    "Data protection",
+    "Licensing & regulation"
+   ],
+   "snippet": "to the appeal 1. This appeal concerns a Penalty Notice (“PN”) issued by the Information Commission (formerly the Information Commissioner, the “IC”) dated 14 April 2025 under section 155(1) of the Data Protection Act 2018 (“DPA 2018”). The PN stated that it was given in respect of infringements of Articles 5(1)(f), 32(1), 32(2) and 33(1) of the UK General Data Protection Regulation (“UK GDPR”) and imposed a penalty of £60,000 in relation to a cyber incident which occurred on 4 June 2022. 2. The Appellant, DPP Law Limited (“DPP”), is a firm of solicitors based in Bootle, England, specialising in the practice of law related to crime, military, family fraud, sexual offences and actions against "
+  },
   {
    "id": "ewhc-admin-2026-2990",
    "title": "BVD v Secretary of State for Defence",
@@ -36,6 +63,18 @@
     "Judicial review"
    ],
    "snippet": "1. This an oral renewal hearing of the Claimant’s application for permission to apply for judicial review of the decision of the Defendant, the General Medical Council, to refer the Claimant to the Interim Orders Tribunal (hereafter “IOT”) following charges being laid against her under the s.12 of the Terrorism Act 2000 and s.19(1) of the Public Order Act 1986 following online activity. Permission was refused on the papers by Sir Peter Lane on 28 September 2026 on the grounds that the IOT constitutes a suitable alternative remedy to judicial review. 2. The application for permission is opposed by the Defendant, represented by Miss Alexis Hearnden of counsel on the basis that the Claimant has"
+  },
+  {
+   "id": "ukftt-grc-2026-1569",
+   "title": "Craig Alfred v The Information Commissioner & Anor",
+   "citation": "[2026] UKFTT 1569 (GRC)",
+   "url": "https://caselaw.nationalarchives.gov.uk/ukftt/grc/2026/1569",
+   "court": "FTT (GRC)",
+   "date": "2026-11-17",
+   "topics": [
+    "FOI / EIR"
+   ],
+   "snippet": "8. The Request seeks information about a number of named police officers. The Police have given an NCND response and in this decision care is taken not to undermine that response or identify the officers and nothing contained in this decision should be interpreted as being an indication that the Police did, or did not hold, any in-scope information. 9. The Request refers to a \"previous complaint\" . This is a reference to a complaint made by the Appellant to the IOPC prior to the date of the Request. Our understanding is that this complaint was investigated by the Police and resulted in the Report which appears, in an unredacted form, in the (open) bundle. While being useful for an understand"
   },
   {
    "id": "ukftt-grc-2026-1564",
@@ -3044,18 +3083,6 @@
     "Judicial review"
    ],
    "snippet": "1. The Claimant is a member of the Save Abertridwr Library group, which has 237 members. She brings this claim in support of the group, to challenge the decision taken by the Defendant on 14 th May 2025 to ‘reduce’ the library service which is provided in Caerphilly. 2. The proposal is with a view to securing a modern, innovative and sustainable service into the future. The proposal follows the pilot model of the Rhymney Library Hub, which opened in January 2024, by potentially developing a further four Tier 1 hubs in other locations across the area at Bargoed, Caerphilly, Blackwood and Risca, and two Tier 2 hubs at Ystrad Mynach and Newbridge. It also considers the expansion of the LibraryL"
-  },
-  {
-   "id": "ewhc-tcc-2026-2209",
-   "title": "Involve Visual Collaboration Ltd v The Secretary of State for Work and Pensions",
-   "citation": "[2026] EWHC 2209 (TCC)",
-   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2026/2209",
-   "court": "TCC",
-   "date": "2026-08-20",
-   "topics": [
-    "Procurement"
-   ],
-   "snippet": "6. The DWP is the UK’s biggest public service department. It administers the state pension and a range of working age, disability, and ill health benefits to approximately 20 million individuals. 7. The stated purpose of the Procurement is to procure a high quality, modern and single source video conferencing channel solution to enable DWP to interact with its customers, which is capable of being rolled out across DWP’s various lines of business. The video conference solution will replace the video conference solutions deployed in the Health Assessment Directorate and Universal Credit, which are the only services currently offering a video conferencing channel and whose contracts will soon e"
   }
  ]
 }
